@@ -55,6 +55,25 @@ em_user1 / 123456
 Admin test account:
 em_admin / 123456
 
-## Author remarks:
+## Screenshots
 
-Thank you for the wonderful opportunity to learn and grow with OutSystems development. It's been an eye-opening journey, highlighting both the strengths and challenges of this dynamic field. I'm grateful for the experience and look forward to applying what I've learned in future projects.
+User Dashboard
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/User_View_Dashboard.png?raw=true)
+
+User View Report List
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/User_View_Report_List.png?raw=true)
+
+User Add New Report
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/User_View_New_Report.png?raw=true)
+
+User Add New Expense Detail
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/User_View_New_Expense_Detail.png?raw=true)
+
+User View Report Details
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/User_View_New_Expense_Detail.png?raw=true)
+
+Admin Dashboard
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/Admin_View_Report_List.png?raw=true)
+
+Admin View Report Details
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/Admin_View_Report_Details.png?raw=true)
