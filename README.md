@@ -1,12 +1,12 @@
-# Expense Management Platform
+# Expenses Management Platform
 
-![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/screenshots/logo.png?raw=true)
+![alt text](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/assets/img/logo.png?raw=true)
 
 The final project for UpAcademy and Miles in the Sky is an expense management platform tailored for corporate use. Users can input two types of reports: expenses and earnings, each with detailed records that undergo administrator review for approval or rejection.
 
 ## Video Presentation
 
-[![Watch Video](https://img.shields.io/badge/Watch%20Video-blue.svg)](#) <!-- Insert link to video presentation here -->
+[![alt text](https://img.youtube.com/vi/7z-pDWiCJIw/0.jpg)](https://www.youtube.com/watch?v=7z-pDWiCJIw)
 
 ## User Dashboard
 
@@ -35,10 +35,26 @@ This project streamlines the attempt of implementing some of the best practices 
 ## Modules
 
 The project works on two modules:
+
 - Design and logic
 - Database management
 
 ## Downloads
 
-- [Download OML](#) <!-- Insert link to OML file -->
-- [Download OAP](#) <!-- Insert link to OAP file -->
+- [Download Frontend Module (OML)](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/project_files/OML/frontend.oml)
+- [Download Core Module (OML)](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/project_files/OML/core.oml)
+- [Download App (OAP)](https://github.com/joaocba/outsystems_expenses-manager-app/blob/main/project_files/OML/core.oml)
+
+## Demo:
+
+https://personal-4r6wfpcp.outsystemscloud.com/ExpensesManagerV2/
+
+User test account:
+em_user1 / 123456
+
+Admin test account:
+em_admin / 123456
+
+## Author remarks:
+
+Thank you for the wonderful opportunity to learn and grow with OutSystems development. It's been an eye-opening journey, highlighting both the strengths and challenges of this dynamic field. I'm grateful for the experience and look forward to applying what I've learned in future projects.
